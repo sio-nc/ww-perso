@@ -496,7 +496,7 @@ body{
     flex-direction: row;
 }
 .about-img img{
-    width: 100%;
+    width: 75%;
     height:380px;
     padding: 30px;
     border-radius: 40px;
@@ -1486,7 +1486,7 @@ For devices with smaller width like mobile phone
         border-radius: 10%;
     }
     .about-img {
-        width: 100%;
+        width: 75%;
         height:250px;
         text-align: center;
         overflow: hidden;
@@ -1934,7 +1934,7 @@ for tabs and large phones
         flex-direction: column-reverse;
     }
     .about-img img{
-        width: 100%;
+        width: 75%;
         height:380px;
         padding: 30px;
         border-radius: 40px;
