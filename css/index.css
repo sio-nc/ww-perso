@@ -2288,14 +2288,14 @@ for tabs and large phones
         width: 75%;
         height:450px;
         padding: 30px;
-        border-radius: 40px;
+        border-radius: 34px;
         animation: opacity 1.4s ease ;
     }
     .about-img {
         width: 40%;
         height:450px;
         padding: 30px;
-        border-radius: 40px;
+        border-radius: 34px;
     }
     .about-first-line{
         font-size: 45px;
@@ -2467,7 +2467,7 @@ for tabs and large phones
         height: 600px;
         background-position: center;
         background-size: cover;
-        border-radius: 16px;
+        border-radius: 8px;
         margin-bottom: 50px;
         position: relative;
         overflow: hidden;
